@@ -1,0 +1,1 @@
+{"name":"FCM_DT_T2","description":"","contentTypes":["STRING","STRING","STRING"],"mapping":[null,null,null],"content":"logtype,hash256,hostname\nWINDOWS_SYSMON,2b105fb153b1bcd619b95028612b3a93c60b953eef6837d3bb0099e4207aaf6b,s2-win2019-lowe\nCS_DETECTS,4b31e985b1b8e631958efa80751beb7e2ff8567204d92e5e974fa35885fd56fc,rhel85-d"}
